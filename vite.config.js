@@ -8,4 +8,5 @@ export default defineConfig({
     react()
   ],
   publicDir: 'image',
+  base: '/Kirbvid/',
 })
